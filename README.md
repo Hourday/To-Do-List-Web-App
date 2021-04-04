@@ -1,4 +1,3 @@
-# To Do List Web App
-### This is a working web app in which you can add todo's with your user-id and password.
-*It has a user authentication system and is solely made for learning purpose*
+# To Do Web App using Django
+To Do list app with User Registration, Login, Search and full Create Read Update and Delete functionality.
 http://rohandhar.pythonanywhere.com/login/
